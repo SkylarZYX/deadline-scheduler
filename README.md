@@ -27,6 +27,8 @@ Also, make sure created.txt's value is set to 0 if there are no tasks currented 
 
 ![Screenshot 2022-09-18 115611](https://user-images.githubusercontent.com/43320327/190916637-6f862cdc-3214-488e-a76a-d7f6f1e7c56d.png)
 
+(you could also change the time of the reminder task at line 33 in start.bat)
+
 **5.** Now once you've done all that, press enter and it should create the deadline for you!
 
 ![Screenshot 2022-09-18 120705](https://user-images.githubusercontent.com/43320327/190916780-85265279-b9e9-45a6-81f5-43896a915834.png)
