@@ -3,7 +3,8 @@ A scheduler for Windows where you can set deadlines/tasks and have your computer
 
 ~~also yes i am aware that batchfiles and vbscripts weren't the best languages for something like this but they are one of the only languages i'm familiar with please don't kill me~~
 ## Quick Setup
-![](https://user-images.githubusercontent.com/43320327/190910900-9622327a-d739-46e0-ab11-832928708cb4.png)
+
+![](https://github.com/SkylarZYX/deadline-scheduler/assets/43320327/dace5cbc-b5fd-4223-8e7b-98f034058d7d)
 
 Change the directory to the directory you installed the scheduler on for both deadline.bat & reminder.bat.
 
