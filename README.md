@@ -5,7 +5,7 @@ A scheduler for Windows where you can set deadlines/tasks and have your computer
 ## Quick Setup
 ![](https://user-images.githubusercontent.com/43320327/190910900-9622327a-d739-46e0-ab11-832928708cb4.png)
 
-Change the drive letter & file directory to the directory you installed the scheduler on for both deadline.bat & reminder.bat.
+Change the directory to the directory you installed the scheduler on for both deadline.bat & reminder.bat.
 
 Also, make sure created.txt's value is set to 0 if there are no tasks currently created from the scheduler.
 
